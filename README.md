@@ -63,7 +63,7 @@ The visualization and illustration in this repo came primarily out of research i
 
 For detailed description you can refer to 
 
-[Mathematical Models of Overparameterized Neural Networks]()
+[Mathematical Models of Overparameterized Neural Networks](https://arxiv.org/abs/2012.13982)
 
 If you find it helpful, you can cite
 
@@ -73,6 +73,8 @@ If you find it helpful, you can cite
   journal={Proceedings of the IEEE}, 
   title = {Mathematical Models of Overparameterized Neural Networks},
   year={2021},
+  
+}
 ```
 
 
