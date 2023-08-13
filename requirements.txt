@@ -1,5 +1,5 @@
 imageio==2.9.0
 numpy==1.22.0
 matplotlib==3.3.2
-torch==1.6.0
+torch==1.13.1
 torchvision==0.7.0
